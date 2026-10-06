@@ -1,5 +1,7 @@
 
-# Campus Lost & Found — Peer-to-Peer Resource Sharing
+## Campus Lost & Found — Peer-to-Peer Resource Sharing
+
+
 
 A DSA-II PBL project (BTech CSE, NIET Greater Noida) that replaces informal WhatsApp/noticeboard posts for lost items, found items, and resource-sharing requests with a single searchable, ranked record — built entirely on core data structures from Trees and Graphs.
 
