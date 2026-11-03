@@ -206,7 +206,7 @@ export default function ReportLost() {
             <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 flex items-center justify-between text-xs text-slate-600">
               <div className="flex items-center gap-2">
                 <span className="font-semibold text-slate-700">Reporting as:</span>
-                <span>{user.name} ({user.email})</span>
+                <span>{user?.name} ({user?.email})</span>
               </div>
               <span className="text-[11px] text-emerald-600 font-semibold">Verified SSTC Student</span>
             </div>

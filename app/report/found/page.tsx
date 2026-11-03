@@ -202,7 +202,7 @@ export default function ReportFound() {
             <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 flex items-center justify-between text-xs text-slate-600">
               <div className="flex items-center gap-2">
                 <span className="font-semibold text-slate-700">Found by:</span>
-                <span>{user.name} ({user.email})</span>
+                <span>{user?.name} ({user?.email})</span>
               </div>
               <span className="text-[11px] text-emerald-600 font-semibold">Campus Good Samaritan</span>
             </div>
